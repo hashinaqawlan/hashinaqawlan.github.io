@@ -8,15 +8,17 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](https://journals.unisba.ac.id/index.php/statistika/article/view/299)
+
+### Publikasi
+[Paper 1](http://prosiding.statistics.unpad.ac.id/index.php/prosidingnasional/article/view/21)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Paper 2](https://journals.unisba.ac.id/index.php/statistika/article/view/299)
 
 ---
+[Paper 3](http://prosiding.statistics.unpad.ac.id/index.php/prosidingnasional/article/view/68)
 
+---
 
 
 
