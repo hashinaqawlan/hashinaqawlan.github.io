@@ -4,8 +4,7 @@
 
 ### Project 
 
-[Project 1 PZSIB](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 PZSIB](https://github.com/hashinaqawlan/hashinaqawlan.github.io/blob/main/DUMMY.ipynb)
 
 ---
 
