@@ -1,10 +1,11 @@
 title: Hashina Qawlan Sadida # your name (or website title) here
 logo: "/images/profpic2.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Program Zenius Studi Independen Bersertifikat 2022<br>
+  <br>Hello, my name is Hashina Qawlan Sadida, I am a final year student at Padjadjaran University, majoring in statistics. I have an interest in data analysis and data scientist. I hope to learn and gain more experience in those fields.<br>
 
   <br>Statistika, Universitas Padjadjaran 2019<br>
-  <a href="https://instagram.com/hashinaqs?igshid=YmMyMTA2M2Y=">View My Instagram</a> 
+  <br>Data Scientist, Data Analyst<br>
+  <a href="www.linkedin.com/in/hashina-qawlan-sadida">View My LinkedIn Profile</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
